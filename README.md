@@ -21,7 +21,7 @@ I love exploring how technology can blend creativity and innovation — from int
 
 ## 💻 Tech Stack
 **Languages:** C#, Java, Python  
-**Tools & Frameworks:** Unity, TensorFlow, Git, Blender  
+**Tools & Frameworks:** Unity, TensorFlow, Git,
 **Interests:** VR/AR, Game Development, AI Integration  
 
 ---
