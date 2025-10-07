@@ -28,6 +28,7 @@ I love exploring how technology can blend creativity and innovation — from int
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Batuhan%20Tunç-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/batuhaanccs)
+📧 **Email:** batuhaanccs@gmail.com  
 
 ---
 
